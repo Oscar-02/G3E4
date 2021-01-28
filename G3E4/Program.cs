@@ -7,7 +7,8 @@ namespace G3E4
         static void Main(string[] args)
         {
             /*
-             * PROGRAMACION ESTRUCTURADA GRUPO 07L 
+             * PROGRAMACION ESTRUCTURADA GRUPO 07L
+             * EJERCICIO 4 GUIA 3
              * 
              * OSCAR ROLANDO CAÑAS VALDIZON
              */
